@@ -1,0 +1,1 @@
+~/data2/myData1.txt

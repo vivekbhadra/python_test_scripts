@@ -1,0 +1,9 @@
+To run this example: 
+
+1. copy the data* folders in the home directory. 
+2. Modify the ./myScript_data_file.py script to point to the data* directory. 
+3. Compile the c++ program with the below command 
+	g++ -o read_data_prog read_data_prog.cpp
+4. Copy the read_data_prog executable into the home directory. 
+5. Run the script with the below command: 
+	python ./myScript_data_file.py
